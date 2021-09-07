@@ -1,1 +1,1 @@
-# Patel-card
+# digital-namecard
