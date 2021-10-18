@@ -7,7 +7,7 @@ ORG:STIM Acupuncture and Physical Therapy;
 TITLE:Physical Therapist
 EMAIL;type=INTERNET;type=WORK;type=pref:stimhealth.pro@gmail.com
 TEL;type=WORK;type=VOICE:2127298565
-TEL;type=SMS;type=MMS:2015652125
+TEL;type=CELL;type=VOICE:2015652125
 item1.ADR;type=WORK;type=pref:;;139 Fulton Street\nSuite 208;;;New York, NY 10038
 item1.X-ABADR:sg
 item2.URL;type=pref:stimhealthmedical.com
